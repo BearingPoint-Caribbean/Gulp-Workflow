@@ -1,0 +1,19 @@
+.wrapper-inner {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: $gutter / 2;
+	padding-right: $gutter / 2;
+	max-width: $max-width + $gutter;
+}
+
+.wrapper-two-col {
+	@include row;
+	@include v-spacing;
+
+	@include media($lg-up) {
+		> * {
+			@include span-columns(6);
+		}
+	}
+}

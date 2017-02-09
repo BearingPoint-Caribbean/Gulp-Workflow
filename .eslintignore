@@ -1,0 +1,4 @@
+.eslintrc
+assets/js/build/*.js
+node_modules
+bower_components
