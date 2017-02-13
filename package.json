@@ -57,7 +57,7 @@
     "rollup-plugin-uglify": "^1.0.1",
     "rollup-stream": "^1.19.0",
     "run-sequence": "^1.2.2",
-    "stylelint-config-standard": "^15.0.1",
+    "stylelint-config-standard": "^16.0.0",
     "stylelint-declaration-strict-value": "^1.0.3",
     "stylelint-scss": "^1.4.1",
     "sw-precache": "^4.3.0",

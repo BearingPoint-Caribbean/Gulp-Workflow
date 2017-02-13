@@ -43,7 +43,7 @@ Thumbs.db
 .cache
 .idea
 service-worker.js
-assets/build
 .htaccess
 tmp/**
 node_modules/
+assets/
